@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhaypainuly
 - 👀 I’m interested in Data Analytics, Automation and Python.
 - 🌱 I’m currently learning statistics and data analytics.
-- 💞️ I’m looking to collaborate on Automation and Data Analytics.
+- 💞️ I’m looking to collaborate on Data Analytics and Machine Learning.
 - 📫 How to reach me painuly.abhay@gmail.com.
 
 <!---
